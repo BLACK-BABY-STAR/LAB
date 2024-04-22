@@ -1,0 +1,6 @@
+5-To Create React component with props and state using JSX syntax.
+6-To use react Router DOM for client side routing and navigation in a react application.
+7- To use redux for advanced stete management in a react application.
+2- To create a web page using HTML, CSS and JAvascript
+8- to fectch f\dat from sn external api usiong fetch api or Axios and integrate it into rea t application
+9- Design  FRONTEND PROJECT INCLUDING WIREFRAMING AND PROTOTYPING
